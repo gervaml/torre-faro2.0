@@ -12,7 +12,8 @@ import json, os, tempfile, uuid, hmac, hashlib, base64, io, secrets, subprocess,
 ROOT=Path(__file__).resolve().parent.parent
 DB_URL=os.getenv("DATABASE_URL","sqlite:///./torre_faro.db")
 if DB_URL.startswith("postgresql://"):
-    DB_URL=DB_URL.replace("postgresql://","postgresql+psycopg://",1)connect_args={"check_same_thread":False} if DB_URL.startswith("sqlite") else {}
+    DB_URL=DB_URL.replace("postgresql://","postgresql+psycopg://",1)
+    connect_args={"check_same_thread":False} if DB_URL.startswith("sqlite") else {}
 engine=create_engine(DB_URL,connect_args=connect_args,pool_pre_ping=True,pool_recycle=1800)
 SessionLocal=sessionmaker(bind=engine,autocommit=False,autoflush=False)
 Base=declarative_base()
