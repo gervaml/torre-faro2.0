@@ -1,0 +1,5186 @@
+[
+  {
+    "source_row": 0,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 64605580.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 1,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 50015665.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 2,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -13329519.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 3,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10549120.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 4,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -13837790.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 5,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6698505.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 6,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6812981.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 7,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -13377665.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 8,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -64605580.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 9,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -50015655.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 10,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17225916.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 11,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 20514586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 12,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 13375300.999999998,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 13,
+    "date": "2024-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 13489777.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 14,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 58506134.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 15,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 46877973.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 16,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12071072.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 17,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9553172.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 18,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12531357.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 19,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6066096.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 20,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6169764.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 21,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12114673.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 22,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -58506134.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 23,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -46877977.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 24,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 15599608.250000002,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 25,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 18577793.25,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 26,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 12112532.25,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 27,
+    "date": "2024-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 12216200.25,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 28,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 59662392.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 29,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 42586295.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 30,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11708039.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 31,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9140378.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 32,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12177420.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 33,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5584386.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 34,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5690103.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 35,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11752501.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 36,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3609565.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 37,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2576464.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 38,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -60086228.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 39,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -42173074.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 40,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 15118974.500000002,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 41,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 18178981.5,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 42,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 11536095.5,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 43,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 11642611.500000002,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 44,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3609565.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 45,
+    "date": "2024-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2576464.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 46,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 21923091.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 47,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 70745562.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 48,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4302148.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 49,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3358654.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 50,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4474623.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 51,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2051996.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 52,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2090842.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 53,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4318485.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 54,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -1326343.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 55,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4280095.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 56,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -21923091.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 57,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -69214377.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 58,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5513812.25,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 59,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 6629781.249999999,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 60,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4207154.25,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 61,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4246000.25,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 62,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 1326343.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 63,
+    "date": "2024-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4280095.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 64,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 39178376.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 65,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 70547224.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 66,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7688293.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 67,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6002192.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 68,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7996521.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 69,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3667087.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 70,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3736508.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 71,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7717490.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 72,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2370285.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 73,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4268095.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 74,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -39178375.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 75,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -69043321.99999999,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 76,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 9853637.75,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 77,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 11847965.75,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 78,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7518532.749999999,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 79,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7587953.749999999,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 80,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2370285.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 81,
+    "date": "2024-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4268095.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 82,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 48925470.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 83,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 54395086.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 84,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9601045.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 85,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7495463.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 86,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9985956.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 87,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4579413.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 88,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4666105.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 89,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9637505.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 90,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2959983.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 91,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4890322.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 92,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -48925470.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 93,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -54395085.99999999,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 94,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 12305100.499999998,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 95,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 14795593.499999998,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 96,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 9389050.5,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 97,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 9475742.5,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 98,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2959983.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 99,
+    "date": "2024-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4890322.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 100,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 58930482.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 101,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 52459965.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 102,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11564410.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 103,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9028248.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 104,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12028033.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 105,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5515880.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 106,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5620300.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 107,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11608327.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 108,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3565284.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 109,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4813103.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 110,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -55365198.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 111,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -47646862.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 112,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 14821432.249999998,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 113,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17821217.25,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 114,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 11309064.25,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 115,
+    "date": "2024-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 11413484.249999998,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 116,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 54441246.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 117,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 57387335.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 118,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11232399.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 119,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8889437.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 120,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11660703.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 121,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5644636.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 122,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5741101.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 123,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11272970.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 124,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33557980.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 125,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -207692800.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 126,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 33557980.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 127,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -212308002.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 128,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 35384667.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 129,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 35384667.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 130,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 35384667.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 131,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 35384667.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 132,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 35384667.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 133,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 35384667.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 134,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2305243.333333333,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 135,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2305243.333333333,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 136,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2305243.333333333,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 137,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2305243.333333333,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 138,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2305243.333333333,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 139,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2305243.333333333,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 140,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 13831460.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 141,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 20828079.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 142,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -17287045.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 143,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -57387334.99999997,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 144,
+    "date": "2024-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17287045.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 145,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 159961533.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 146,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 6120532.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 147,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33008216.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 148,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -25921691.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 149,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -35413298.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 150,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -16107496.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 151,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -16400386.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 152,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -24363554.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 153,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8746892.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 154,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33550000.002000004,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 155,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5591666.667,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 156,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5591666.667,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 157,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5591666.667,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 158,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5591666.667,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 159,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5591666.667,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 160,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5591666.667,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 161,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -103873181.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 162,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 103873181.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 163,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8746892.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 164,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -334678.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 165,
+    "date": "2025-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8746892.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 166,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 117952615.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 167,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 76870836.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 168,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -24339635.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 169,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19114166.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 170,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -26113097.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 171,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11877364.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 172,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12093335.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 173,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -17965225.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 174,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6449793.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 175,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33550000.002000004,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 176,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6449793.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 177,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4203391.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 178,
+    "date": "2025-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 6449793.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 179,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 102894935.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 180,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 72203639.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 181,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -21232469.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 182,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -16674076.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 183,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -22779533.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 184,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10361114.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 185,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10549515.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 186,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -15671807.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 187,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5626421.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 188,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33550000.002000004,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 189,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10626421.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 190,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3948183.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 191,
+    "date": "2025-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5626421.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 192,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 77452462.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 193,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 69264161.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 194,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -15982390.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 195,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12551135.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 196,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -17146917.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 197,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7799158.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 198,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7940973.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 199,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11796694.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 200,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4235195.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 201,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -36162499.998,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 202,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -78764203.66250584,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 203,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3787449.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 204,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 25628453.814669494,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 205,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 47962217.5,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 206,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 84541.89783634759,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 207,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 853795.45,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 208,
+    "date": "2025-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4235195.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 209,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 80187356.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 210,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 50324458.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 211,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -16546738.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 212,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12994323.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 213,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -17752385.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 214,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8074551.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 215,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8221374.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 216,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12213242.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 217,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4384743.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 218,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 219,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -80187357.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 220,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2751803.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 221,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 20184319.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 222,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 24942380.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 223,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 15264546.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 224,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 15411369.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 225,
+    "date": "2025-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4384743.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 226,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 55138111.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 227,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 43552577.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 228,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11377802.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 229,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8935105.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 230,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12206825.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 231,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5552191.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 232,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5653148.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 233,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8398021.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 234,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3015019.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 235,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -16500000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 236,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -16500000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 237,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 238,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 239,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 240,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 241,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 242,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 243,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -51013112.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 244,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2381508.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 245,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 9754061.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 246,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17150781.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 247,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10496147.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 248,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10597104.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 249,
+    "date": "2025-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3015019.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 250,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 58203173.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 251,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 54199135.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 252,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12010281.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 253,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9431797.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 254,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12885387.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 255,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5860830.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 256,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5967400.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 257,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8864857.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 258,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3182621.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 259,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -16500000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 260,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -16500000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 261,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 262,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 263,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 264,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 265,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 266,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2750000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 267,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -51952234.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 268,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2963675.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 269,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10525581.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 270,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17150781.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 271,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10496147.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 272,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10597104.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 273,
+    "date": "2025-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3182621.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 274,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 73869063.82,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 275,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 63519524.88,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 276,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -14820125.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 277,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11638396.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 278,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -15899966.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 279,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7231991.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 280,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7363493.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 281,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2049068.82,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 282,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10938819.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 283,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3927205.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 284,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -18218749.98,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 285,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -18218749.98,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 286,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3036458.33,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 287,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3036458.33,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 288,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3036458.33,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 289,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3036458.33,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 290,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3036458.33,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 291,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3036458.33,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 292,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -54050944.116621405,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 293,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3376978.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 294,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 13879061.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 295,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17785014.3118214,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 296,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 9117039.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 297,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 9342624.8048,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 298,
+    "date": "2025-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3927205.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 299,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 92585759.62,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 300,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 75734923.9,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 301,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -18663675.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 302,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -14562264.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 303,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -20055645.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 304,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8882181.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 305,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9051694.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 306,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2643447.62,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 307,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -13660473.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 308,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5066380.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 309,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -18700000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 310,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -18700000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 311,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3740000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 312,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3740000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 313,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3740000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 314,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3740000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 315,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3740000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 316,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -17526024.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 317,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19063302.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 318,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2921004.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 319,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2921004.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 320,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2921004.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 321,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2921004.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 322,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2921004.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 323,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 2921004.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 324,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -61397062.44,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 325,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8988839.78,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 326,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 14334988.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 327,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 19832722.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 328,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8650404.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 329,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8820052.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 330,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4692516.44,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 331,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5066380.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 332,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 199349703.3363333,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 333,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -39869940.66726666,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 334,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -39869940.66726666,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 335,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -39869940.66726666,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 336,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -39869940.66726666,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 337,
+    "date": "2025-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -39869940.66726666,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 338,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 262060332.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 339,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 221451175.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 340,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -15986358.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 341,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -48589414.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 342,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -64139234.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 343,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -32511107.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 344,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -32990939.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 345,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7476741.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 346,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -46036763.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 347,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -14329776.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 348,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19250000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 349,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19250000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 350,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3850000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 351,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3850000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 352,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3850000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 353,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3850000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 354,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3850000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 355,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -132772900.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 356,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -88400000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 357,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 26554580.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 358,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 26554580.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 359,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 26554580.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 360,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 26554580.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 361,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 26554580.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 362,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -110037432.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 363,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -89014873.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 364,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 67728758.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 365,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10011162.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 366,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10490995.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 367,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7476741.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 368,
+    "date": "2025-10-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 14329776.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 369,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 105442426.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 370,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 100079774.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 371,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6432261.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 372,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19550405.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 373,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -25807021.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 374,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -13081148.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 375,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -13274213.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 376,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3008337.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 377,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -18523322.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 378,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5765719.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 379,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19800000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 380,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19800000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 381,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 382,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 383,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 384,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 385,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 386,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -85642427.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 387,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -80189594.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 388,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 20839301.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 389,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 27095917.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 390,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 14370044.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 391,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 14563109.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 392,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3008337.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 393,
+    "date": "2025-11-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5765719.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 394,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 122641996.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 395,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 95406795.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 396,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7481481.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 397,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -22739436.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 398,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -30016591.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 399,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -15214924.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 400,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -15439481.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 401,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3499052.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 402,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -21544817.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 403,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6706214.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 404,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19800000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 405,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19800000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 406,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 407,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 408,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 409,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 410,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3960000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 411,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -102841995.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 412,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -75606794.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 413,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 25046010.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 414,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 32323165.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 415,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17521498.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 416,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17746056.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 417,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3499052.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 418,
+    "date": "2025-12-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 6706214.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 419,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 33177472.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 420,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 76952407.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 421,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -2023912.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 422,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6151538.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 423,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8120176.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 424,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4115986.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 425,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4176734.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 426,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -946574.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 427,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5828367.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 428,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -1814185.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 429,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -20625000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 430,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -20625000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 431,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 432,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 433,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 434,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 435,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 436,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9594112.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 437,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -59285764.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 438,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4926995.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 439,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 922805.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 440,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 983553.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 441,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 946574.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 442,
+    "date": "2026-01-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 1814185.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 443,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 137430636.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 444,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 151547314.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 445,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -8383626.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 446,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -25481444.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 447,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33636106.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 448,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -17049598.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 449,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -17301233.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 450,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3920981.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 451,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -24142773.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 452,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7514875.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 453,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -20625000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 454,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -20625000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 455,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 456,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 457,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 458,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 459,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4125000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 460,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -104183205.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 461,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -133477120.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 462,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17445819.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 463,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 35000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 464,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 20024947.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 465,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 20276583.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 466,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3920981.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 467,
+    "date": "2026-02-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7514875.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 468,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 123718537.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 469,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 143356594.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 470,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -7547152.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 471,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -22939041.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 472,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -30280074.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 473,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -15348479.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 474,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -15575008.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 475,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -3529766.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 476,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -21733936.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 477,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -6765081.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 478,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19525000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 479,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -19525000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 480,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3905000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 481,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3905000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 482,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3905000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 483,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3905000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 484,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3905000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 485,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -95426931.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 486,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -88690661.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 487,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 15000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 488,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 34330552.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 489,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 17787502.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 490,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 18014030.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 491,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 3529766.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 492,
+    "date": "2026-03-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 6765081.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 493,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 171702145.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 494,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 173187163.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 495,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10474277.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 496,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -31835832.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 497,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -42024047.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 498,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -21301309.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 499,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -21615696.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 500,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -4898768.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 501,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -30163333.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 502,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9388883.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 503,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -39761095.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 504,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33015730.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 505,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7952219.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 506,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7952219.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 507,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7952219.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 508,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7952219.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 509,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7952219.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 510,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -104619913.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 511,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -119040743.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 512,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 15000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 513,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 42243176.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 514,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 21520438.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 515,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 21834824.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 516,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4898768.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 517,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 9388883.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 518,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10266176.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 519,
+    "date": "2026-04-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -16014976.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 520,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 176682616.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 521,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 133231873.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 522,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10778099.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 523,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -32759276.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 524,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -43243016.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 525,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -21919185.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 526,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -22242691.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 527,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5040864.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 528,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -31038264.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 529,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9661221.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 530,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -38991069.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 531,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -32364879.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 532,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7798213.8,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 533,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7798213.8,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 534,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7798213.8,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 535,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7798213.8,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 536,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 7798213.8,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 537,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -154225947.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 538,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -123699775.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 539,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 50000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 540,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 43949340.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 541,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 22625508.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 542,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 22949014.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 543,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5040864.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 544,
+    "date": "2026-05-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 9661221.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 545,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 176361353.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 546,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 98853625.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 547,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10758501.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 548,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -32699710.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 549,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -43164387.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 550,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -21879329.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 551,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -22202247.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 552,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5031698.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 553,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -30981827.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 554,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -9643654.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 555,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -40112930.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 556,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33296242.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 557,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 558,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 559,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 560,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 561,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 562,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -103141864.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 563,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -58959621.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 564,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 43571237.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 565,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 22286179.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 566,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 22609096.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 567,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5031698.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 568,
+    "date": "2026-06-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 9643654.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 569,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 202133288.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 570,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 170547205.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 571,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -12330656.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 572,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -37478165.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 573,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -49472060.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 574,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -25076586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 575,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -25446693.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 576,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5766988.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 577,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -35509245.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 578,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11052895.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 579,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -40112930.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 580,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33296242.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 581,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 582,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 583,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 584,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 585,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8022586.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 586,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -156032582.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 587,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -108198423.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 588,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 589,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 50877847.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 590,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 51482373.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 591,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 26852479.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 592,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5766988.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 593,
+    "date": "2026-07-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 11052895.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 594,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 188948997.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 595,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 203167137.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 596,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11526380.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 597,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -35033624.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 598,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -46245209.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 599,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -23440948.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 600,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -23786913.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 601,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5390832.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 602,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33193129.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 603,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10331962.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 604,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -43058285.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 605,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -35740940.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 606,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8611657.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 607,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8611657.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 608,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8611657.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 609,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8611657.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 610,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 8611657.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 611,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -135000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 612,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 27000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 613,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 27000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 614,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 27000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 615,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 27000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 616,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 27000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 617,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -28778410.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 618,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -142917375.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 619,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 12914166.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 620,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5390832.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 621,
+    "date": "2026-08-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10473412.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 622,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 192296307.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 623,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 213217364.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 624,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -11730575.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 625,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -35654260.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 626,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -47064462.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 627,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -23856214.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 628,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -24208308.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 629,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -5486332.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 630,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -33781159.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 631,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -10514997.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 632,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -22023540.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 633,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -14682360.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 634,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4404708.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 635,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4404708.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 636,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4404708.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 637,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4404708.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 638,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 4404708.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 639,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -138150000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 640,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -118417796.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 641,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": -17742209.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 642,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 643,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 66624282.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 644,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5000000.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 645,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 20792185.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 646,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 5486332.0,
+    "ab": null,
+    "partner_name": null
+  },
+  {
+    "source_row": 647,
+    "date": "2026-09-01",
+    "concept": "Movimiento importado",
+    "amount_ars": 10514997.0,
+    "ab": null,
+    "partner_name": null
+  }
+]

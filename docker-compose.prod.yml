@@ -1,0 +1,53 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:?Definí POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER:?Definí POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Definí POSTGRES_PASSWORD}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+  app:
+    build: .
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB}
+      TF_ADMIN_USER: ${TF_ADMIN_USER:?Definí TF_ADMIN_USER}
+      TF_ADMIN_PASSWORD: ${TF_ADMIN_PASSWORD:?Definí TF_ADMIN_PASSWORD}
+      TF_AUTH_SECRET: ${TF_AUTH_SECRET:?Definí TF_AUTH_SECRET}
+      TF_ENV: production
+    expose:
+      - "8000"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:8000/api/health >/dev/null || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+    depends_on:
+      db:
+        condition: service_healthy
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    environment:
+      TF_DOMAIN: ${TF_DOMAIN:?Definí TF_DOMAIN}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      app:
+        condition: service_healthy
+volumes:
+  postgres_data:
+  caddy_data:
+  caddy_config:
